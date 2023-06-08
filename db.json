@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "cat": "Main",
+      "title": "Task 1",
+      "date": "04/04/2023",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+      "fav": false,
+      "postStatus": true
+    },
+    {
+      "id": 2,
+      "cat": "Main",
+      "title": "Task 2",
+      "date": "04/03/2023",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+      "fav": false,
+      "postStatus": false
+    },
+    {
+      "title": "Task 3",
+      "date": "04/02/2023",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+      "cat": "main",
+      "fav": true,
+      "postStatus": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "cat": "Main",
+      "title": "Task 4",
+      "date": "04/01/2023",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+      "fav": true,
+      "postStatus": true
+    },
+    {
+      "cat": "aaa",
+      "title": "event.stopPropagation()",
+      "date": "2023-06-07",
+      "desc": "This will stop any parent component’s event from firing. To use this:",
+      "fav": true,
+      "postStatus": false,
+      "id": 5
+    }
+  ]
+}
